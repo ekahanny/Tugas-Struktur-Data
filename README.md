@@ -1,4 +1,3 @@
 "Pengumpulan Tugas Struktur Data" 
 
-NAMA : EKA HANNY OKTAVIA
-NIM : H071211058
+EKA HANNY OKTAVIA (H071211058)
